@@ -19,6 +19,9 @@ namespace DsAlgorithm
 
             Console.WriteLine("\n UC4");
             UC4_Bubblesort.BubbleSort();
+
+            Console.WriteLine("\n UC6");
+            UC6_Anagram.Anagram();
         }
     }
 }
