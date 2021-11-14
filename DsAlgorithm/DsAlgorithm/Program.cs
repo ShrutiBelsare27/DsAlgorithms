@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AlgorithmPrograms;
+using System;
 
 namespace DsAlgorithm
 {
@@ -6,7 +7,9 @@ namespace DsAlgorithm
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to data structure algorithm");
+            string S = "abc";
+            int n = S.Length;
+            UC1_Permutation.Permute(S, 0, n - 1);
         }
     }
 }
