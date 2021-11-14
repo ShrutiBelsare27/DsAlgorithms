@@ -22,6 +22,9 @@ namespace DsAlgorithm
 
             Console.WriteLine("\n UC6");
             UC6_Anagram.Anagram();
+
+            Console.WriteLine("\n UC7");
+            UC7_PrimeNumber.Prime();
         }
     }
 }
