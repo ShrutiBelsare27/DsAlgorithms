@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\bin\Debug\netcoreapp3.1\DsAlgorithm.exe
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\bin\Debug\netcoreapp3.1\DsAlgorithm.deps.json
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\bin\Debug\netcoreapp3.1\DsAlgorithm.runtimeconfig.json
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\bin\Debug\netcoreapp3.1\DsAlgorithm.runtimeconfig.dev.json
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\bin\Debug\netcoreapp3.1\DsAlgorithm.dll
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\bin\Debug\netcoreapp3.1\DsAlgorithm.pdb
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\obj\Debug\netcoreapp3.1\DsAlgorithm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\obj\Debug\netcoreapp3.1\DsAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\obj\Debug\netcoreapp3.1\DsAlgorithm.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\obj\Debug\netcoreapp3.1\DsAlgorithm.AssemblyInfo.cs
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\obj\Debug\netcoreapp3.1\DsAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\obj\Debug\netcoreapp3.1\DsAlgorithm.dll
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\obj\Debug\netcoreapp3.1\DsAlgorithm.pdb
+C:\Users\User\Desktop\DsAlgorithm\DsAlgorithm\DsAlgorithm\obj\Debug\netcoreapp3.1\DsAlgorithm.genruntimeconfig.cache
