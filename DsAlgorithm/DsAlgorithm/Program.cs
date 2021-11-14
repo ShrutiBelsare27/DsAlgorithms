@@ -11,9 +11,11 @@ namespace DsAlgorithm
             int n = S.Length;
             UC1_Permutation.Permute(S, 0, n - 1);
 
-            #region UC2
+            //UC2
             UC2_BinarySearchWord.BSTWord();
-            #endregion
+
+            Console.WriteLine("\n UC3");
+            UC3_InsertionSort.InsertionSort();
         }
     }
 }
