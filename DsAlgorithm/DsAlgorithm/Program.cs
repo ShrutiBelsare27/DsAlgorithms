@@ -7,7 +7,7 @@ namespace DsAlgorithm
     {
         static void Main(string[] args)
         {
-            string S = "abc";
+            /*string S = "abc";
             int n = S.Length;
             UC1_Permutation.Permute(S, 0, n - 1);
 
@@ -24,7 +24,12 @@ namespace DsAlgorithm
             UC6_Anagram.Anagram();
 
             Console.WriteLine("\n UC7");
-            UC7_PrimeNumber.Prime();
+            UC7_PrimeNumber.Prime();*/
+
+            Console.WriteLine("\n UC8");
+            UC8_AnagramAndPalindromeNumber uc8 = new UC8_AnagramAndPalindromeNumber();
+            uc8.anagramAndPalindrome();
         }
+    
     }
 }
