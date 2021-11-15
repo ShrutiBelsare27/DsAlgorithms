@@ -26,13 +26,17 @@ namespace DsAlgorithm
             Console.WriteLine("\n UC7");
             UC7_PrimeNumber.Prime();*/
 
-            Console.WriteLine("\n UC8");
+            /*Console.WriteLine("\n UC8");
             UC8_AnagramAndPalindromeNumber uc8 = new UC8_AnagramAndPalindromeNumber();
-            uc8.anagramAndPalindrome();
+            uc8.anagramAndPalindrome();*/
 
             /*Console.WriteLine("\n UC9");
             UC9_SearchingAndSortingUsingGenerics obj=new UC9_SearchingAndSortingUsingGenerics();
             obj.BubbleSort<int>(1,6,3);*/
+
+            Console.WriteLine("\n UC11");
+            UC11TaskDoneByMaximumAmount tdma = new UC11TaskDoneByMaximumAmount();
+            tdma.tasks();
 
         }
     
