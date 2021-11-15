@@ -20,6 +20,17 @@ namespace DsAlgorithm
             Console.WriteLine("\n UC4");
             UC4_Bubblesort.BubbleSort();
 
+            #region UC5
+            Console.WriteLine("\n UC5");
+            int[] a = new int[] { 15, 3, 1, 10, 9, 13 };
+            UC5_MergeSort msort = new UC5_MergeSort();
+            Console.WriteLine("Unsorted Array");
+            msort.Display(a);
+            msort.Sort(a, 0, a.Length - 1);
+            Console.WriteLine("\n Sorted Array");
+            msort.Display(a);
+            #endregion
+
             Console.WriteLine("\n UC6");
             UC6_Anagram.Anagram();
 
